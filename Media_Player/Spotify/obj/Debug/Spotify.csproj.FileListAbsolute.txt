@@ -1,0 +1,50 @@
+C:\Users\KELREN\source\repos\Spotify\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\KELREN\source\repos\Spotify\Spotify\bin\Debug\Spotify.exe
+C:\Users\KELREN\source\repos\Spotify\Spotify\bin\Debug\Spotify.pdb
+C:\Users\KELREN\source\repos\Spotify\Spotify\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\KELREN\source\repos\Spotify\Spotify\obj\Debug\Spotify.csprojAssemblyReference.cache
+C:\Users\KELREN\source\repos\Spotify\Spotify\obj\Debug\Spotify.Form1.resources
+C:\Users\KELREN\source\repos\Spotify\Spotify\obj\Debug\Spotify.Properties.Resources.resources
+C:\Users\KELREN\source\repos\Spotify\Spotify\obj\Debug\Spotify.csproj.GenerateResource.cache
+C:\Users\KELREN\source\repos\Spotify\Spotify\obj\Debug\Spotify.csproj.CoreCompileInputs.cache
+C:\Users\KELREN\source\repos\Spotify\Spotify\obj\Debug\Spotify.csproj.CopyComplete
+C:\Users\KELREN\source\repos\Spotify\Spotify\obj\Debug\Spotify.exe
+C:\Users\KELREN\source\repos\Spotify\Spotify\obj\Debug\Spotify.pdb
+C:\Users\KELREN\Desktop\Spotify\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\KELREN\Desktop\Spotify\Spotify\bin\Debug\Spotify.exe
+C:\Users\KELREN\Desktop\Spotify\Spotify\bin\Debug\Spotify.pdb
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\Spotify.csprojAssemblyReference.cache
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\Spotify.Form1.resources
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\Spotify.Properties.Resources.resources
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\Spotify.csproj.GenerateResource.cache
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\Spotify.csproj.CoreCompileInputs.cache
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\Spotify.csproj.CopyComplete
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\Spotify.exe
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\Spotify.pdb
+C:\Users\KELREN\Desktop\Spotify\Spotify\bin\Debug\Interop.WMPLib.dll
+C:\Users\KELREN\Desktop\Spotify\Spotify\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\Interop.WMPLib.dll
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\Spotify.csproj.ResolveComReference.cache
+C:\Users\KELREN\Desktop\Spotify\Spotify\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\KELREN\Desktop\Spotify\Spotify\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\KELREN\Desktop\Spotify\Spotify\bin\Debug\PlaylistSharpLib.dll
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\bin\Debug\Spotify.exe.config
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\bin\Debug\Spotify.exe
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\bin\Debug\Spotify.pdb
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\bin\Debug\PlaylistSharpLib.dll
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\bin\Debug\Interop.WMPLib.dll
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\Spotify.csprojAssemblyReference.cache
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\Interop.WMPLib.dll
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\Spotify.csproj.ResolveComReference.cache
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\Spotify.Form1.resources
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\Spotify.Properties.Resources.resources
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\Spotify.csproj.GenerateResource.cache
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\Spotify.csproj.CoreCompileInputs.cache
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\Spotify.csproj.CopyComplete
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\Spotify.exe
+C:\Users\KELREN\Desktop\Spotify - Kopya\Spotify\obj\Debug\Spotify.pdb
